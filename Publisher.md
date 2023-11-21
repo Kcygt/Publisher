@@ -9,12 +9,5 @@
 |   Frontiers in Robotics and AI  |   Frontier |       7.8        |
 |The International Journal of Robotics Research| Sage | 7.8 |
 |      International Journal of Intelligent Robotics and Applications        |         Springer       |       7.8        |
-
-
 |      Robotics        |         MDPI       |       7.8        |
 |   Advanced Robotics  |   Taylor & Francis |       7.8        |
-
-
-
-
-
